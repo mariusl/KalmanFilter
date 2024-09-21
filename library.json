@@ -1,0 +1,26 @@
+{
+  "name": "KalmanFilter",
+  "version": "1.0.0",
+  "description": "A simple implimentation of the kalman filter to cleanup moisy measurements in a slow environment",
+  "keywords": "kalman filter, noise reduction",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/mariusl/KalmanFilter.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Marius Liebenberg",
+      "email": "marius@protmac.co.za",
+      "url": ""
+    }
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "none"
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
