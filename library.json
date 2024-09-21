@@ -18,9 +18,7 @@
   ],
   "license": "MIT",
   "homepage": "",
-  "dependencies": {
-    "none"
-  },
+  "dependencies": "",
   "frameworks": "*",
   "platforms": "*"
 }
