@@ -16,11 +16,14 @@ KalmanFilter constructor: Takes four parameters:
 	r: Measurement noise covariance (sensor noise).
 	
 	
-predict(): This performs the prediction step based on the previous estimate.
+Funtions (in order of calling)
+	
+	predict(): This performs the prediction step based on the previous estimate.
 
-update(): This takes a new sensor measurement and updates the state estimate.
+	update(): This takes a new sensor measurement and updates the state estimate.
 
-getEstimate(): This method returns the current filtered estimate.
+	getEstimate(): This method returns the current filtered estimate.
+	
 
 ## Notes:
 You can adjust the q and r values based on the characteristics of your system and sensor noise level.
