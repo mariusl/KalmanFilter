@@ -1,0 +1,17 @@
+#######################################
+# Syntax Coloring Map
+#        for
+# KalmanFilter
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+KalmanFilter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+predict	KEYWORD2
+update	KEYWORD2
+getEstimate	KEYWORD2
